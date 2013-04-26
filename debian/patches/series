@@ -11,3 +11,4 @@ mumps.patch
 hypre.patch
 nocleanup.patch
 umfpack.patch
+allow-keys-starting-with-double-dash.patch

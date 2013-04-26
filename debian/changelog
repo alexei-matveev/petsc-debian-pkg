@@ -1,3 +1,11 @@
+petsc (3.2.dfsg-7) unstable; urgency=low
+
+  * Fix parsing long options in the command line
+    - debian/patches/allow-keys-starting-with-double-dash.patch added
+    - debian/patches/series append another patch
+
+ -- Alexei Matveev <alexei.matveev@gmail.com>  Fri, 26 Apr 2013 17:14:45 +0200
+
 petsc (3.2.dfsg-6) unstable; urgency=low
 
   * Team upload.
